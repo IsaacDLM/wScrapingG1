@@ -1,0 +1,567 @@
+[
+    {
+        "categoria": "Desayunos",
+        "plato": "Cookie Matcha",
+        "descripcion": "Rellena de trocitos de avellana, té matcha y chocolate blanco."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Cookie Choco Dubai",
+        "descripcion": "De cacao estilo Dubai, rellena de crema de pistacho."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tostada de aguacate, huevo revuelto y paleta ibérica",
+        "descripcion": "Hogaza de pan de cereales y semillas con aguacate, huevo revuelto, paleta ibérica crujiente, tomate seco y aceite de oliva virgen extra."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Bowl de de acai, frutas, cacahuete y granola",
+        "descripcion": "Bowl de pulpa de acai con yogurt griego natural, plátano, kiwi, fresas, cacahuete garrapiñado, arándanos frescos y granola de avena con un toque de furikake."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Pincho de Tortilla Casera",
+        "descripcion": "Pincho de tortilla de patata recién hecha con toque de cebolla, acompañado de pan de cristal."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tostada de aguacate",
+        "descripcion": "Hogaza de pan con aguacate, crema de queso, aceite de oliva y un toque de pimentón."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tostada de aguacate  y huevo poché",
+        "descripcion": "Hogaza de pan con aguacate, huevo poché, crema de queso, aceite de oliva y un toque de pimentón."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tostada de pavo y huevo poché",
+        "descripcion": "Hogaza de pan con crema de queso, pechuga de pavo, rúcula, huevo poché, nueces, aceite de oliva, pimienta, pimentón y aliño de miel y mostaza."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Americano California",
+        "descripcion": "Tortitas recién hechas con granola de avena, aguacate, pechuga de pavo, brotes y huevo frito o huevo revuelto a elegir.  Acompañado de salsa holandesa o sirope de arce."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tortitas con bechamel trufada",
+        "descripcion": "Tortitas recién hechas con huevo frito, bacon crujiente y bechamel trufada."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Tortitas con Nocilla®",
+        "descripcion": "Tortitas recién hechas con Nocilla ®, plátano, fresas y crujiente de barquillo."
+    },
+    {
+        "categoria": "Desayunos",
+        "plato": "Bowl de yogurt griego natural",
+        "descripcion": "Bowl de yogurt griego natural con plátano, fresas, arándanos, granola de avena, lascas de chocolate y miel."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Cookie Choco Dubai",
+        "descripcion": "De cacao estilo Dubai, rellena de crema de pistacho."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tostada de aguacate, huevo revuelto y paleta ibérica",
+        "descripcion": "Hogaza de pan de cereales y semillas con aguacate, huevo revuelto, paleta ibérica crujiente, tomate seco y aceite de oliva virgen extra."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Bowl de de acai, frutas, cacahuete y granola",
+        "descripcion": "Bowl de pulpa de acai con yogurt griego natural, plátano, kiwi, fresas, cacahuete garrapiñado, arándanos frescos y granola de avena con un toque de furikake."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tostada de aguacate  y huevo poché",
+        "descripcion": "Hogaza de pan con aguacate, huevo poché, crema de queso, aceite de oliva y un toque de pimentón."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tostada de aguacate",
+        "descripcion": "Hogaza de pan con aguacate, crema de queso, aceite de oliva y un toque de pimentón."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Bowl de yogurt griego natural",
+        "descripcion": "Bowl de yogurt griego natural con plátano, fresas, arándanos, granola de avena, lascas de chocolate y miel."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tostada de pavo y huevo poché",
+        "descripcion": "Hogaza de pan con crema de queso, pechuga de pavo, rúcula, huevo poché, nueces, aceite de oliva, pimienta, pimentón y aliño de miel y mostaza."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tortitas con bechamel trufada",
+        "descripcion": "Tortitas recién hechas con huevo frito, bacon crujiente y bechamel trufada."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tortitas con Nocilla®",
+        "descripcion": "Tortitas recién hechas con Nocilla ®, plátano, fresas y crujiente de barquillo."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tarta de galleta",
+        "descripcion": "Tarta de galleta con pepitas de chocolate y mousse de galleta Lotus Biscoff ®, sirope de caramelo y nata montada VIPS."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Brownie con helado",
+        "descripcion": "Bizcocho caliente de chocolate, con nueces, cubierto por un helado de vainilla y con cobertura de chocolate fundido."
+    },
+    {
+        "categoria": "Meriendas",
+        "plato": "Tortitas VIPS",
+        "descripcion": "Tortitas recién hechas con nata montada VIPS y sirope de chocolate, caramelo o fresa"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Setas Empanadas",
+        "descripcion": "Setas empanadas acompañas de paleta ibérica y mayonesa de eneldo."
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Gyozas de rabo y carrillera",
+        "descripcion": "Gyozas de rabo y carrillera acompañadas de salsa mayo-alioli kimchi con toque de guindilla y salsa yakiniku."
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Ensaladilla de salmón ahumado y holandesa",
+        "descripcion": "Ensaladilla con salmón ahumado artesanal Ahumados Domínguez, salsa holandesa y crujiente wonton."
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Combo de Entrantes",
+        "descripcion": "Fingers de pollo con salsa BBQ Chipotle, quesadilla de jamón y queso, crema agria y guacamole, croquetas ibéricas y Nachos Tex-Mex"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Croquetas Ibéricas",
+        "descripcion": "Cremosas croquetas de jamón ibérico coronadas con paleta ibérica y un toque de salsa mayo-sriracha"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "1/2 Croquetas Ibéricas",
+        "descripcion": "Cremosas croquetas de jamón ibérico coronadas con paleta ibérica y un toque de salsa mayo-sriracha"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Patatas BraVIPS",
+        "descripcion": "Patatas en espiral con salsas mayo-VIPS y salsa chili sriracha"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Quesadilla de jamón y queso",
+        "descripcion": "Dos tortillas de harina de trigo, jamón cocido, queso Cheddar fundido, pico de gallo, crema agria y guacamole"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Nachos Tex Mex",
+        "descripcion": "Nachos de maíz acompañados de salsa de queso fundido con chorizo picado, jalapeños, cebolla, crema agria y cilantro"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Nachos con Guacamole",
+        "descripcion": "Nachos de maíz acompañados de Guacamole y pico de gallo"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Fingers de Pollo",
+        "descripcion": "Fingers de pollo Cornflakes con salsa BBQ Chipotle y salsa mostaza y miel"
+    },
+    {
+        "categoria": "Entrantes",
+        "plato": "Tartar de Salmón y Aguacate",
+        "descripcion": "Tartar de salmón marinado en aliño de soja y lima con aguacate y acompañado de crema agria y tostas de pan de cristal.Los productos de la pesca crudos han sido previamente congelados a Tª < de -20ºC, mínimo 24 horas."
+    },
+    {
+        "categoria": "Ensaladas",
+        "plato": "Waikiki",
+        "descripcion": "Carne de vacuno sazonada, mango, pepino, pimiento rojo, cebolla roja, anacardos, ajonjolí, aliñada con salsa sweet chili y cilantro sobre láminas de wonton, espaguetis y mezcla de lechugas y brotes."
+    },
+    {
+        "categoria": "Ensaladas",
+        "plato": "Ensalada Los Ángeles",
+        "descripcion": "Aguacate, mango, fresas, queso de cabra, feta, tomate cherry, cebolla roja y nueces. Con vinagreta, quinoa y lechugas."
+    },
+    {
+        "categoria": "Ensaladas",
+        "plato": "Ensalada César",
+        "descripcion": "Pechuga de pollo crujiente, queso parmesano rallado, salsa César, mezcla de lechugas y barritas de pan de cristal."
+    },
+    {
+        "categoria": "Ensaladas",
+        "plato": "Ensalada Toscana",
+        "descripcion": "Pechuga de pollo a la plancha, queso gorgonzola, tomate fresco y tomate seco, aliñada con vinagreta de hierbas sobre una base de mezcla de lechugas con brotes y acompañada de barritas de pan de cristal."
+    },
+    {
+        "categoria": "Bowls",
+        "plato": "Rainbow Poke",
+        "descripcion": "Dados de salmón marinado con salsa yakiniku y lima, aguacate, mango, edamame, wakame, tomate cherry, pepino, rúcula, cebolla encurtida, col lombarda, furikake y salsa mayo sriracha sobre arroz de sushi.Los productos de la pesca crudos han sido previamente congelados a Tª < de -20ºC, mínimo 24 horas."
+    },
+    {
+        "categoria": "Bowls",
+        "plato": "Pollo Oriental",
+        "descripcion": "Contramuslo de pollo marinado con salsa teriyaki, brócoli asado, salteado de col lombarda, cebolla y pimiento rojo, zanahoria, anacardos, ajetes y sésamo sobre arroz de sushi con portobello y salsa yakiniku."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Sándwich Vegetal",
+        "descripcion": "Hummus de remolacha, huevo poché, rabanito, aguacate, mostarda de frambuesa, cebolla encurtida, pepinillo y mezcla de lechugas en pan de semillas."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Pepito",
+        "descripcion": "Carne de vacuno, pimiento verde frito, paleta ibérica, queso cheddar ahumado, salsa española y salsa especial VIPS en pan de viena coronado con una croqueta."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Calamares",
+        "descripcion": "Chipirones fritos, alioli kimchi y brotes verdes en pan de cristal coronado con una gilda."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "VIPS Club Smash",
+        "descripcion": "Cuatro pisos de pan brioche con hamburguesa smash, huevo frito, queso cheddar, bacon crujiente, jamón cocido extra, salsa especial VIPS, cebolla roja, lechuga, tomate y pepinillo."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "VIPS Club  Salmón",
+        "descripcion": "Pan de cereales y semillas con salmón ahumado noruego, aguacate, tomate, cebolla roja, lechuga, mayonesa y salsa mostaza y miel.Los productos de la pesca crudos han sido previamente congelados a Tª < de -20ºC, mínimo 24 horas."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "CachoPower",
+        "descripcion": "Cachopo relleno de carne de vacuno, jamón serrano, queso y pimiento, huevo frito, guindilla, lechuga y mayonesa ligeramente picante en crujiente pan cristalino"
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Cubano",
+        "descripcion": "Pulled pork, queso emmental y queso fundido, jamón cocido, mostaza, mayonesa y pepinillo, en pan de maíz con semillas de calabaza y girasol. Servido con salsa mostaza y miel. Guarnición a elegir, pídelo con patatas gajo."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "VIPS Club",
+        "descripcion": "Pan blanco o pan de semillas, tres pisos de pollo a la plancha, bacon, jamón York, quesos, mayonesa, tomate y lechuga."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Fundy O´Clock",
+        "descripcion": "Pan de maíz con semillas de calabaza y girasol, jamón cocido extra, pechuga de pavo, huevos revueltos y queso cheddar fundido."
+    },
+    {
+        "categoria": "Sandwiches y bocadillos",
+        "plato": "Jamón y Queso",
+        "descripcion": "Jamón cocido extra y queso fundido en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Pollo Sureño",
+        "descripcion": "Pechuga de pollo crujiente al estilo sureño con salsa Glaze Cola, ensalada de col, salsa de queso azul y pepinillo en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Smash Bacon&Cheese",
+        "descripcion": "Dos carnes de vacuno al estilo smash, bacon crujiente, queso cheddar fundido, mayonesa, mostaza, kétchup especiado y pepinillos agridulces en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Benedict",
+        "descripcion": "Carne de vacuno con huevo frito, salsa holandesa, bacon crujiente, queso cheddar, tomate, lechuga y salsa mayo-sriracha en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "VIPS Burger",
+        "descripcion": "Carne de vacuno o pollo crujiente, queso fundido, lechuga, bacon crujiente, salsa BBQ ahumada, cebolla roja a la plancha, pepinillo y salsa baconesa en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Pampera",
+        "descripcion": "Carne de vacuno, queso provolone y lonchas de queso fundidos, bacon, cebolla caramelizada, salsa mayonesa de chimichurri y rúcula en pan de mollete. Acompañada de guarnición a elegir."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Clásica",
+        "descripcion": "Carne de vacuno o pollo, queso cheddar, lechuga, tomate y cebolla en pan brioche."
+    },
+    {
+        "categoria": "Hamburguesas",
+        "plato": "Buey Trufada",
+        "descripcion": "Carne de buey Valles del Esla®, mayonesa trufada, salsa cacio e pepe, champiñón Portobello, bacon de Angus, cebolla caramelizada y rúcula en pan brioche."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Zanahorias asadas con cous-cous",
+        "descripcion": "Zanahorias asadas con queso feta sobre cous cous, anacardos, remolacha, cebolla roja asada y aliño de vinagreta de cítricos."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Tacos de costillas BBQ",
+        "descripcion": "Monta tus propios tacos de costillas BBQ con pico de gallo, salsa roja, crema agria y encurtidos. Acompañados de mazorcas de maíz."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Pollo asado en salsa española",
+        "descripcion": "Pollo asado con salsa española acompañado de puré de patata y zanahorias asadas."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Carrillera al teriyaki",
+        "descripcion": "Carrillera de vacuno al teriyaki con calabaza asada y chips de verduras."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Salmón sobre crema de queso y hummus",
+        "descripcion": "Salmón sobre crema de queso, hummus de guisantes y toque de menta, aceitunas y cebolla encurtida."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Carbonara de Soria",
+        "descripcion": "Espaguetis con salsa carbonara de huevo, torreznos de Soria crujientes, trocitos de bacon y queso parmesano rallado."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "VIPS Wellington",
+        "descripcion": "Crujiente hojaldre relleno de tierna carne de vacuno, jamón, queso cheddar, duxelle de champiñones y mostaza Dijon, acompañado de puré de patata asada, portobello y salsa española"
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "La Villaroy",
+        "descripcion": "Pechuga de pollo con bechamel rebozada al estilo sureño con huevo frito y aderezada con miel-sriracha. Acompañado de batatas y salsa especial VIPS."
+    },
+    {
+        "categoria": "Platos atipicos",
+        "plato": "Costillas BBQ VIPS",
+        "descripcion": "Costillas de cerdo a la BBQ con patatas espirales, mazorcas de maíz y salsa BBQ Chipotle"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Sándwich Mixto sin gluten",
+        "descripcion": "Sándwich tostado con jamón cocido y queso fundido. Acompañado de patatas fritas."
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "VIPS Club sin gluten",
+        "descripcion": "Sándwich tostado con pollo a la plancha, bacon ahumado, tomate, mayonesa, queso, jamón y lechuga Batavia. Acompañado de patatas fritas."
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Nachos Tex Mex sin gluten",
+        "descripcion": "Tortillas de maíz acompañadas de una salsa de quesos con cebolla roja y chorizo picado"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "BBQ Bacon CheeseBurger sin gluten",
+        "descripcion": "Hamburguesa con queso, bacon ahumado, salsa BBQ, lechuga, cebolla roja y tomate con guarnición de patatas fritas"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Pollo Oriental Bowl sin gluten",
+        "descripcion": "Tiras de pechuga de pollo, salsa agridulce de soja y piña, pimientos rojos, brócoli, anacardos y arroz blanco"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Brownie sin gluten",
+        "descripcion": "Bizcocho sin gluten de chocolate con nueces, chocolate fundido y nata"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Tortitas con Nata sin gluten",
+        "descripcion": "Tortitas con nata montada VIPS y sirope de chocolate o caramelo"
+    },
+    {
+        "categoria": "Sin gluten",
+        "plato": "Cerveza Mahou",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Copa de Vainilla, Matcha y Violeta",
+        "descripcion": "Helado de leche fresca de dos vainillas Bourbon y Madagascar, helado de té Matcha japonés y helado de violeta, acompañados de moras, fresas, teja crujiente y nata."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Copa Tres chocolates",
+        "descripcion": "Helado de leche fresca de chocolate Guanaja Valrhona y helado de chocolate y avellanas sobre brownie y galleta, con cacahuete garrapiñado, virutas y barquillo de chocolate, con salsa de chocolate caliente."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Tarta de galleta",
+        "descripcion": "Tarta de galleta con pepitas de chocolate y mousse de galleta Lotus Biscoff ®, sirope de caramelo y nata montada VIPS."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Tortitas con Nocilla ®",
+        "descripcion": "Tortitas recién hechas con Nocilla ®, plátano, fresas y crujiente de barquillo."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Lemon Pie",
+        "descripcion": "Crema de limón y merengue tostado sobre una bola de helado de galleta María y migas de galleta crujiente."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Mini Lemon Pie",
+        "descripcion": "Crema de limón y merengue tostado sobre una bola de helado de galleta María y migas de galleta crujiente en versión mini."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Tarta de Queso",
+        "descripcion": "Tarta cremosa de queso y base de galleta."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Tortitas",
+        "descripcion": "Tortitas recién hechas con nata montada VIPS y sirope de chocolate, caramelo o fresa"
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Pieza Tortita",
+        "descripcion": "Tortita recién hecha con nata montada VIPS y sirope de chocolate, caramelo o fresa"
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Vasito de Brownie",
+        "descripcion": "Bizcocho caliente de chocolate, con nueces cubierto por un helado de vainilla y con salsa de chocolate fundido"
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Brownie con helado",
+        "descripcion": "Bizcocho caliente de chocolate, con nueces, cubierto por un helado de vainilla y cobertura de chocolate fundido."
+    },
+    {
+        "categoria": "Postres",
+        "plato": "Helado 2 bolas",
+        "descripcion": "Dos bolas de helado artesanal a elegir: maracuyá, chocolate y avellanas, chocolate Belga, fresa, vainilla, chocolate blanco o yogur con arándanos."
+    },
+    {
+        "categoria": "Batidos y smoothies",
+        "plato": "Batido Oreo",
+        "descripcion": "Batido de helado artesanal de chocolate blanco, galletas Oreo y nata montada VIPS"
+    },
+    {
+        "categoria": "Batidos y smoothies",
+        "plato": "Batidos VIPS 60cl",
+        "descripcion": "Batidos con helado artesanal de chocolate belga, fresa, vainilla, chocolate blanco o yogur con arándanos"
+    },
+    {
+        "categoria": "Batidos y smoothies",
+        "plato": "Batidos VIPS 25cl",
+        "descripcion": "Batidos con helado artesanal de chocolate belga, fresa, vainilla, chocolate blanco o yogur con arándanos"
+    },
+    {
+        "categoria": "Batidos y smoothies",
+        "plato": "Yellow Tropic",
+        "descripcion": "Mango, piña, maracuyá y hierbabuena"
+    },
+    {
+        "categoria": "Batidos y smoothies",
+        "plato": "Red Love",
+        "descripcion": "Frutos rojos, piña, plátano, fresas y hierbabuena"
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Trina de Naranja",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Gaseosa",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Coca-Cola Original",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Coca-Cola Zero",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Coca-Cola Zero Zero",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Aquarius Limón Zero",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Aquarius Naranja",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Fanta Zero Limón",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Fanta Zero Naranja",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Fuze Tea Original",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Royal Bliss Signature Tonic",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Bebidas",
+        "plato": "Agua",
+        "descripcion": ""
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Menú del Día Clásico",
+        "descripcion": "Primero, segundo, postre o café y bebida. Menú sujeto a disponibilidad. Consulta con tu camarero."
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Plato Perfecto Salmón",
+        "descripcion": "Salmón a la plancha; brócoli y zanahorias asadas sobre ricota con remolacha, sésamo negro, ajonjolí y salsa sweet chili, cous -cous con queso de cabra, arándanos, anacardos, almendra y hierbabuena y ensalada de espinacas, rúcula, rabanito y cebolla encurtida aliñada con cilantro y lima. Acompañado de pan de masa madre."
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Plato Perfecto Pollo Piri–Piri",
+        "descripcion": "Contramuslos de pollo piri – piri con toque picante con pico de gallo y piña; salteado de champiñón Portobello con remolacha sobre hummus de guisante, batata asada con queso feta, almendra, nuez y compota de arándanos con hierbabuena y ensalada de espinacas, rúcula, rabanito y cebolla encurtida aliñada con cilantro y lima. Acompañado de pan de masa madre."
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Plato Perfecto Roast Beef",
+        "descripcion": "Roast Beef de ternera con chimichurri de pistacho; aguacate con crema de limón y miel sobre hummus de remolacha, brócoli y zanahorias asadas sobre ricota con remolacha, sésamo negro, ajonjolí y salsa sweet chili y ensalada de espinacas, rúcula, rabanito y cebolla encurtida aliñada con cilantro y lima. Acompañado de pan de masa madre."
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Plato Perfecto Vegetariano",
+        "descripcion": "Boniato asado acompañado de sweet garden y compota de arándanos; lentejas aliñadas con aceite de sésamo y queso feta, almendra y nueces sobre hummus, arroz con Edamame, remolacha y pico de gallo con piña y sweet chili y ensalada de espinacas, rúcula, rabanito y cebolla encurtida aliñada con cilantro y lima. Acompañado de pan de masa madre."
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Menú Infantil",
+        "descripcion": "Elige un plato, bebida y postre"
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Menú Infantil sin Gluten",
+        "descripcion": "Elige un plato, bebida y postre"
+    },
+    {
+        "categoria": "Menu",
+        "plato": "Menú Noche",
+        "descripcion": "Incluye un entrante a compartir, principal y bebida por persona."
+    }
+]
